@@ -1,0 +1,2 @@
+open_time,open,high,low,close,volume,close_time,quote_asset_volume,number_of_trades,taker_buy_base_asset_volume,taker_buy_quote_asset_volume,ignore
+1680307200000,0.05,1.695,0.05,1.38935,584492873.0,1682899199999,782480555.63045,2546812,300437854.0,402512235.1234,0
